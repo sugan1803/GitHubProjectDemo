@@ -8,7 +8,8 @@ public class FirstClass {
 		int  favnumber = 6;
 		float floatnum = 100.00f;
 		char charvar = 's';
-		
+		String stringval = "hello";
+		System.out.println(stringval);
         System.out.println("Welcome to "+ language);
 		System.out.println("Welcome again");
 		System.out.println("My favorite number is "+ (100*2));
